@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void multiplo(int x, int y);
 int main()
 
